@@ -14,13 +14,13 @@ Prompts for Coders
 - [🔗 A Multi-Prompt Approach (Prompt Chaining)](#-a-multi-prompt-approach-prompt-chaining)
   - [1. Modernize and add best practices](#1-modernize-and-add-best-practices)
   - [2. Review your code for logical errors and security concerns](#2-review-your-code-for-logical-errors-and-security-concerns)
-  - [3. Validate the recommendations (reflexion)](#3-validate-the-recommendations-reflexion)
+  - [3. Validate the recommendations (reflection)](#3-validate-the-recommendations-reflection)
   - [4. Write the Code](#4-write-the-code)
   - [5. Create Tests](#5-create-tests)
 - [Re-write Prompt](#re-write-prompt)
 - [ChatGPT prompt optimizer](#chatgpt-prompt-optimizer)
 - [Ask for alternatives](#ask-for-alternatives)
-- [Documentation / Explaination](#documentation--explaination)
+- [Documentation / Explanation](#documentation--explaination)
   - [📣 Adding Documentation](#-adding-documentation)
   - [📣 Write your terms and conditions](#-write-your-terms-and-conditions)
   - [📣 Produce cheat sheets](#-produce-cheat-sheets)
@@ -51,9 +51,9 @@ Prompts for Coders
   - [📣 Create a Class](#-create-a-class)
   - [📣 Add Functionality](#-add-functionality)
   - [📣 Create Boilerplate Code](#-create-boilerplate-code)
-  - [📣 You are a world class software engineer](#-you-are-a-world-class-software-engineer)
+  - [📣 You are a world-class software engineer](#-you-are-a-world--class-software-engineer)
 - [Code Review](#code-review)
-  - [📣 Error Hendling](#-error-hendling)
+  - [📣 Error Handling](#-error-handling)
   - [📣 Suggest Improvements](#-suggest-improvements)
 - [Product Service Promotion](#product-service-promotion)
   - [📣 Generate innovative product ideas](#-generate-innovative-product-ideas)
@@ -638,7 +638,7 @@ Write me a boilerplate Node.js function that will take a variable of type User, 
 
 <sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
-### 📣 You are a world class software engineer
+### 📣 You are a world-class software engineer
 
 > [!NOTE]
 >In this clip I show you how to *drastically* improve ChatGPT’s outputs for software generation.
