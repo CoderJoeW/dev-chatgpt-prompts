@@ -51,7 +51,7 @@ Prompts for Coders
   - [📣 Create a Class](#-create-a-class)
   - [📣 Add Functionality](#-add-functionality)
   - [📣 Create Boilerplate Code](#-create-boilerplate-code)
-  - [📣 You are a world-class software engineer](#-you-are-a-world--class-software-engineer)
+  - [📣 You are a world-class software engineer](#-you-are-a-world-class-software-engineer)
 - [Code Review](#code-review)
   - [📣 Error Handling](#-error-handling)
   - [📣 Suggest Improvements](#-suggest-improvements)
@@ -646,7 +646,7 @@ Write me a boilerplate Node.js function that will take a variable of type User, 
 **Prompt:**
 
 ```
-You are a world class software engineer.
+You are a world-class software engineer.
 
 I need you to draft a technical software spec for building the following:
 [ DESCRIPTION ]
