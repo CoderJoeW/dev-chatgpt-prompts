@@ -1,3 +1,4 @@
+
 # 🤖 DEV ChatGPT Prompts
 
 Welcome to my personal collection of ChatGPT prompts for developers! 🙌
@@ -82,7 +83,7 @@ Provide expected inputs, data and outputs to improve accuracy quality. 📝
 Don’t be afraid to list exactly what you want, what you know, what is needed, and what not to include. 🔎
 
 - **Ask it to Reflect:**
-A technique called reflexion has been shown to increase GPT4’s accuracy. Basically ask it ‘Why were you wrong?’ or get it to reflect and review its own response. 🤔
+A technique called reflection has been shown to increase GPT4’s accuracy. Basically ask it ‘Why were you wrong?’ or get it to reflect and review its own response. 🤔
 
 ## 🔗 A multi-prompt approach (prompt chaining)
 
