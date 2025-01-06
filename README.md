@@ -1,4 +1,3 @@
-
 # 🤖 DEV ChatGPT Prompts
 
 Welcome to my personal collection of ChatGPT prompts for developers! 🙌
@@ -115,11 +114,11 @@ Get recommendations to improve any logical or security concerns introduced. It�
 Review your provided code 'tempFunction' for any logical or security concerns and provide a list of recommendations.
 ```
 
-### 3. Validate the recommendations (reflexion)
+### 3. Validate the recommendations (reflection)
 
 ---
 
-Validate the provided recommendations. Reflexion is a powerful technique to improve the accuracy of the initial recommendations and try to eliminate any hallucinations. This is not always required but it is worth asking if you are unsure about any recommendations.
+Validate the provided recommendations. Reflection is a powerful technique to improve the accuracy of the initial recommendations and try to eliminate any hallucinations. This is not always required but it is worth asking if you are unsure about any recommendations.
 
 **Prompt:**
 
